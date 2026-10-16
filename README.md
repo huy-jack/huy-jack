@@ -35,7 +35,7 @@ I am a **Tech Lead and Full-stack Engineer** with about **6 years** of experienc
         <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma">
         <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
       </p>
-      <a href="https://sphere.123rf.ai"><b>sphere.123rf.ai →</b></a>
+      <a href="https://sphere.123rf.ai"><img alt="See it live" src="https://img.shields.io/badge/See_it_live-sphere.123rf.ai-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 html-design <sub><i>open source</i></sub></h3>
@@ -47,7 +47,7 @@ I am a **Tech Lead and Full-stack Engineer** with about **6 years** of experienc
         <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
         <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
       </p>
-      <a href="https://github.com/huy-jack/html-design"><b>huy-jack/html-design →</b></a>
+      <a href="https://github.com/huy-jack/html-design"><img alt="View on GitHub" src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     </td>
   </tr>
 </table>
